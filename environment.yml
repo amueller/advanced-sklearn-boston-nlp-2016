@@ -1,0 +1,26 @@
+name: sklearn
+dependencies:
+- libgfortran=1.0=0
+- numpy=1.10.1=py34_0
+- openblas=0.2.14=3
+- openssl=1.0.2d=0
+- pip=7.1.2=py34_0
+- python=3.4.3=2
+- readline=6.2=2
+- scikit-learn=0.17=np110py34_1
+- scipy=0.16.0=np110py34_1
+- setuptools=18.5=py34_0
+- sqlite=3.8.4.1=1
+- tk=8.5.18=0
+- wheel=0.26.0=py34_1
+- xz=5.0.5=0
+- zlib=1.2.8=0
+- pip:
+  - apache-libcloud==0.19.0
+  - backports.ssl-match-hostname==3.4.0.2
+  - futures==3.0.3
+  - pkginfo==1.2.1
+  - requests-toolbelt==0.4.0
+  - twine==1.6.4
+  - wheelhouse-uploader==0.7.4
+
