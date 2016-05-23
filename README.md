@@ -1,7 +1,7 @@
 # Advanced machine learning with Scikit-learn
 This repository contains material and slides for the Boston NLP meetup March 23rd 2016.
 
-Slides are [here](advanced-sklearn-boston-nlp-2016.pdf).
+Slides are [here](https://github.com/amueller/advanced-sklearn-boston-nlp-2016/raw/master/advanced-sklearn-boston-nlp-2016.pdf).
 
 The following packages are required to run the notebooks:
 
